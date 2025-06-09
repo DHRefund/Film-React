@@ -314,5 +314,3 @@ export default Spinner;
 ```
 
 </details>
-
-## <a name="links">🔗 Assets</a>
