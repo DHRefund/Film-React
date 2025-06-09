@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.loading-more {
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.loading-more p {
+  color: #888;
+  font-size: 0.9rem;
+}
